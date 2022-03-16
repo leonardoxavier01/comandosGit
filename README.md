@@ -1,8 +1,8 @@
 # Introdução Git e GITHUB
 
-Repositório criado para armazenar alguns dos comandos principais do GIT
+Repositório criado para armazenar alguns dos comandos GIT
 
-## 📦 No Terminal Bash
+## 📦 In Terminal 
 
 ### git init
 ### git add 
